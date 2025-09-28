@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Crush Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .container {
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+      max-width: 400px;
+    }
+    h1 {
+      color: #ff4d6d;
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background: #ff4d6d;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: 0.3s;
+    }
+    a:hover {
+      background: #e63950;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Gửi Crush ❤️</h1>
+    <p>Mình có một điều muốn nói với bạn...</p>
+    <a href="https://dohoangloi08.github.io/crush4/">Bấm vào đây</a>
+  </div>
+</body>
+</html>
